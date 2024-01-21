@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web3
+title: Web3란?
 nav_order: 2
 ---
-Posting 테스트
+2024-01-22 Posting 예정
