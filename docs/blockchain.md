@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web3
-nav_order: 2
+title: Blockchain
+nav_order: 3
 ---
 Posting 테스트
